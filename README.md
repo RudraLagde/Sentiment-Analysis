@@ -1,2 +1,2 @@
 # Sentiment-Analysis
-Sentiment analysis based on customor reviews
+Sentiment analysis based on customer reviews
